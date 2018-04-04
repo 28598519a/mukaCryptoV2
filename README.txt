@@ -1,6 +1,6 @@
 ﻿mukaCryptoV2
 
-戰艦少女muka檔與png的轉換
+戰艦少女muka加密解密
 
 關於V2
 
@@ -9,5 +9,3 @@
 3.增加對多語系系統的顯示支援
 4.修改為寬字元版本
 5.若干Bug修復
-
-Required : .net framework 4.6.1 及 Visual Studio C++ 2017
